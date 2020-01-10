@@ -7,7 +7,7 @@ This repository holds plugins which are developed to extend the functionality of
 
 
 ## Contact us
-Please create a separate issue for each query.
+Please create a separate [issue](https://github.com/Ensembl/VEP_plugins/issues) for each query.
 
 Comments or questions can also be sent to the Ensembl help desk at:
 
